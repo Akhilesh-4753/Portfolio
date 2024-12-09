@@ -1,0 +1,8 @@
+export const projectlist = [
+  {project:"Calculator",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdnHePQlywP3W5u3sFCpy3vSEFODVKphhojQ&s",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque eius cum architecto harum  optio nemo esse autem minima dicta reprehenderit doloribus vitae?"},
+  {project:"Weather",image:"https://i.ytimg.com/vi/MIYQR-Ybrn4/maxresdefault.jpg",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque eius cum architecto harum  optio nemo esse autem minima dicta reprehenderit doloribus vitae?"},
+  {project:"Portfolio",image:"https://repository-images.githubusercontent.com/279903174/e6d970ed-8a4d-42fa-9f16-0b7efc34fb95",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque eius cum architecto harum  optio nemo esse autem minima dicta reprehenderit doloribus vitae?"},
+  {project:"BMI",image:"https://i.ytimg.com/vi/inX0931bH10/maxresdefault.jpg",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque eius cum architecto harum  optio nemo esse autem minima dicta reprehenderit doloribus vitae?"},
+  {project:"E-Commerce",image:"https://i.ytimg.com/vi/BsmRYjW4csw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvRA1xffRJVnZbuRC9yNLrXcUEqQ",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque eius cum architecto harum  optio nemo esse autem minima dicta reprehenderit doloribus vitae?"},
+  {project:"Clone",image:"https://i.ytimg.com/vi/TIu_KrdWO1M/mqdefault.jpg",description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque eius cum architecto harum  optio nemo esse autem minima dicta reprehenderit doloribus vitae?"}
+]

@@ -1,0 +1,28 @@
+.Homeabout-container{
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15rem;
+}
+.Homeabout-right{
+  width: 100%; 
+  display: flex;
+  flex-direction: column;
+}
+.Homeabout-right h1,.Homeabout-right div{
+  margin-right: 10rem;
+}
+.Homeabout-left{
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Homeabout-left img{
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 18px 18px 1px 1px #f692e2;
+}
